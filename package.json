@@ -1,13 +1,14 @@
 {
-  "name": "simditor",
-  "version": "2.3.20",
+  "name": "trpg-teditor",
+  "version": "1.0.0",
   "description": "A simple online editor",
   "keywords": "editor simditor",
   "repository": {
     "type": "git",
     "url": "git@github.com:mycolorway/simditor.git"
   },
-  "author": "farthinker <farthinker@gmail.com>",
+  "author": "moonrailgun",
+  "contributors": ["farthinker <farthinker@gmail.com>"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mycolorway/simditor/issues"
